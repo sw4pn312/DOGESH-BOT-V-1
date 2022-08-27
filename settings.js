@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916306984357'] //ur owner number
-global.ownername = "Mr Ashish" //ur owner name
-global.ytname = "TEAM RIDERS" //ur yt chanel name
-global.socialm = "github.com/teamriders" //ur github or insta name
-global.location = "India, DREAMRS , RIDERSWORLD" //ur location
+global.vcardowner = ['9163069843578260634323'] //ur owner number
+global.ownername = "MrSW4PN3" //ur owner name
+global.ytname = "TEAM India" //ur yt chanel name
+global.socialm = "github.com/sw4pn312" //ur github or insta name
+global.location = "India, DREAMRS ,Dreamworld" //ur location
 
 //bot bomdy 
-global.owner = ['916306984357']
-global.ownertag = '916306984357' //ur tag number
+global.owner = ['918260634323']
+global.ownertag = '918260634323' //ur tag number
 global.botname = '⚡𝘿𝙊𝙂𝙀𝙎𝙃 𝘽𝙊𝙏⚡' //ur bot name
 global.linkz = "https://chat.whatsapp.com/L7r7Emf3q3FGEAmlBXbpzr" //your theme url which will be displayed on whatsapp
 global.websitex = "https://instagram.com/x.goransh_x?igshid=YmMyMTA2M2Y=" //ur website to be displayed
-global.botscript = 'https://github.com/RIDERGORANSH' //script link
+global.botscript = 'https://github.com/sw4pn312/DOGESH-BOT-V-1' //script link
 global.reactmoji = "😇" //ur menu react emoji
 global.themeemoji = "⚡" //ur theme emoji
 global.packname = "SUBSCRIBE\n\n\n\n\n\n\n\n\n\n\n𝙏𝙀𝘼𝙈 𝙍𝙄𝘿𝙀𝙍𝙎😊 " //ur sticker watermark packname
-global.author = "TEAM RIDERS ⚡💟" //ur sticker watermark author
+global.author = "TEAM SW4PN3 ⚡💟" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
